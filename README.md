@@ -4,8 +4,7 @@
   Manage your finances with ease using my Finance application, featuring an intuitive user interface, advanced data visualizations, and secure local         database management with Hive. Experience hassle-free monitoring of your income and expenses with powerful budget tracking and transaction categorization   capabilities.
 
 
-##Features
-
+<h1>Features</h1>
 
   Intuitive user interface for easy monitoring of income and expenses
   Advanced data visualizations for clear insights into financial data
@@ -15,7 +14,7 @@
   Payment reminders to help users stay on top of bills and expenses
 
 
-##Technologies Used
+<h1>Technologies Used</h1>
 
 
   Flutter for building the mobile application
