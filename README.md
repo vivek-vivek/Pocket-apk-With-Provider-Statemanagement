@@ -1,5 +1,5 @@
-##Finance Application
 
+<h1> Finance Application</h1>
 
   Manage your finances with ease using my Finance application, featuring an intuitive user interface, advanced data visualizations, and secure local         database management with Hive. Experience hassle-free monitoring of your income and expenses with powerful budget tracking and transaction categorization   capabilities.
 
